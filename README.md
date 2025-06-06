@@ -61,7 +61,7 @@ Below are sample screenshots from the dashboard. Visit the 🔗 [Full Dashboard 
 
 ![Dashboard Overview](https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/ff6cec549bf6c3f1da41659b07900f4cb52eb54f/customer%20churn-%20data%20overview%20shot.png)
 ![Churn Rate by Contract](https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/58545e912b72d5dc1f4413c92b83865df4a6c65e/churn%20rate-%20shot.png)
-![Top Churn Reasons]((https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/f713107ccab15bad37aecd3a98d4b32268388cf9/churn%20reason-shot.png)
+![Top Churn Reasons](https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/f713107ccab15bad37aecd3a98d4b32268388cf9/churn%20reason-shot.png)
 
 ---
 
