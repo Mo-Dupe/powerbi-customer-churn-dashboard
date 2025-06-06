@@ -60,7 +60,7 @@ Below are sample screenshots from the dashboard. Visit the 🔗 [Full Dashboard 
  for full visual walkthrough.
 
 ![Dashboard Overview](customer churn- data overview shot.png)
-![Churn Rate by Contract](churn rate- shot.png)
+![Churn Rate by Contract]([churn rate- shot.png](https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/58545e912b72d5dc1f4413c92b83865df4a6c65e/churn%20rate-%20shot.png))
 ![Top Churn Reasons](churn reason-shot.png)
 
 ---
