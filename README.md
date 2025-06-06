@@ -52,7 +52,12 @@ This section analyses churn patterns by customer support activity, device protec
 - **DAX Measures** for churn rate, segmentation, and calculated KPIs
 - **Data Storytelling** with user-focused UI/UX
 
----
+---### 📌 Key Findings
+
+- Grouped customers with long-term contracts had the lowest churn rates (6.5%).
+- Support interactions and paper check payments strongly correlated with churn.
+- Seniors (60+) churned the most, highlighting a key retention gap.
+
 
 ## 📎 Screenshots
 
