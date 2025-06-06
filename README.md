@@ -59,8 +59,8 @@ This section analyses churn patterns by customer support activity, device protec
 Below are sample screenshots from the dashboard. Visit the 🔗 [Full Dashboard on Notion](https://www.notion.so/Customer-Churn-Analysis-Power-BI-Dashboard-209c4022a4558053b515de25feb4189d)
  for full visual walkthrough.
 
-![Dashboard Overview](customer churn- data overview shot.png)
-![Churn Rate by Contract]([churn rate- shot.png](https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/58545e912b72d5dc1f4413c92b83865df4a6c65e/churn%20rate-%20shot.png))
+![Dashboard Overview](customer churn- data overview shot.png)](https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/ff6cec549bf6c3f1da41659b07900f4cb52eb54f/customer%20churn-%20data%20overview%20shot.png)
+![Churn Rate by Contract](churn rate- shot.png](https://github.com/Mo-Dupe/powerbi-customer-churn-dashboard/blob/58545e912b72d5dc1f4413c92b83865df4a6c65e/churn%20rate-%20shot.png)
 ![Top Churn Reasons](churn reason-shot.png)
 
 ---
